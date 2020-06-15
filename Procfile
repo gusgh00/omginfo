@@ -1,1 +1,1 @@
-worker: python ohmygirl.py
+worker: python miracle.py
