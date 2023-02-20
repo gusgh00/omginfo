@@ -12,7 +12,7 @@ from pytz import timezone, utc
  
 client = discord.Client()
 
-access_token = os.environ["BOTTOKEN"]
+access_token = os.environ["NjU2MTExNTY2NTUwNDY2NTc5.GAi5pw.5aPtCXc8lagh5ztrzVtWs0cDxH4MY4zvoqqXao"]
  
 @client.event
 async def on_ready():
