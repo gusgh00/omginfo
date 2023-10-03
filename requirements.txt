@@ -4,6 +4,6 @@ asyncio==3.4.3
 DateTime==4.3
 bs4==0.0.1
 beautifulsoup4==4.8.2
-urllib3==1.25.8
+urllib3==1.26.17
 requests==2.23.0
 pytz==2019.3
